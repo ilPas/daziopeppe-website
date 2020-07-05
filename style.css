@@ -1,0 +1,412 @@
+/** ***************************************
+	@Author			Gomal Themes
+	@Website		http://gomalthemes.com
+	TABLE CONTENTS
+	---------------------------
+		01. Color & Background Colors
+		02. Font Sizes
+		03. Spacing/Dividers
+	---------------------------
+ ** ************************************* **/
+/**	01. Color  & Background Colors
+*************************************************** **/
+.color-white,
+.color-white h1,
+.color-white h2,
+.color-white h3,
+.color-white h4,
+.color-white h5,
+.color-white h6,
+.color-white p {
+  color: #fff !important;
+}
+.color-blue,
+.color-blue h1,
+.color-blue h2,
+.color-blue h3,
+.color-blue h4,
+.color-blue h5,
+.color-blue h6,
+.color-blue p,
+.color-blue span {
+  color: #2488ff !important;
+}
+.color_active a {
+  color: #2488ff !important;
+}
+.color_active {
+  color: #2488ff !important;
+}
+.color-half-white {
+  color: #cccccc;
+}
+.color-dark {
+  color: #333333;
+}
+.bg-half-white {
+  background: #f7f7f7;
+}
+.bg-light-white-2 {
+  background: #fdfdff;
+}
+.bg-dark-grey {
+  background: #333333;
+}
+.bg-white {
+  background: #fff;
+}
+.bg-black {
+  background: #000;
+}
+.fw-300 {
+  font-weight: 300;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-600 {
+  font-weight: 600;
+}
+.fw-700 {
+  font-weight: 700;
+}
+/** ************************************* **/
+/**	02. Font Sizes
+*************************************************** **/
+.font-11 {
+  font-size: 11px;
+}
+.font-13 {
+  font-size: 13px;
+}
+.font-15 {
+  font-size: 15px;
+}
+.font-16 {
+  font-size: 16px;
+}
+.font-18 {
+  font-size: 18px;
+}
+.font-20 {
+  font-size: 20px;
+}
+.font-21 {
+  font-size: 21px;
+}
+.font-22 {
+  font-size: 22px;
+}
+.font-37 {
+  font-size: 37px;
+}
+.font-40 {
+  font-size: 40px;
+}
+.font-50 {
+  font-size: 50px;
+}
+.font-60 {
+  font-size: 60px;
+}
+.font-84 {
+  font-size: 84px;
+}
+.font-172 {
+  font-size: 172px;
+}
+.text-italic {
+  font-style: italic;
+}
+.text-bold {
+  font-weight: 700;
+}
+/** ************************************* **/
+/**	02. Spacings
+*************************************************** **/
+.pad-zero {
+  padding: 0;
+}
+.pad-right-zero {
+  padding-right: 0;
+}
+.pad-left-zero {
+  padding-left: 0;
+}
+.pad-top-zero {
+  padding-top: 0;
+}
+.pad-bottom-zero {
+  padding-bottom: 0;
+}
+.pad-bot-55 {
+  padding-bottom: 55px;
+}
+.pad-bottom-60 {
+  padding-bottom: 60px;
+}
+.pad-top-60 {
+  padding-top: 60px;
+}
+.space10 {
+  float: left;
+  width: 100%;
+  height: 10px;
+}
+.space20 {
+  float: left;
+  width: 100%;
+  height: 20px;
+}
+.space30 {
+  float: left;
+  width: 100%;
+  height: 30px;
+}
+.space40 {
+  float: left;
+  width: 100%;
+  height: 40px;
+}
+.space50 {
+  float: left;
+  width: 100%;
+  height: 50px;
+}
+.space60 {
+  float: left;
+  width: 100%;
+  height: 60px;
+}
+.space70 {
+  float: left;
+  width: 100%;
+  height: 70px;
+}
+.space80 {
+  float: left;
+  width: 100%;
+  height: 80px;
+}
+.space90 {
+  float: left;
+  width: 100%;
+  height: 90px;
+}
+.space100 {
+  float: left;
+  width: 100%;
+  height: 100px;
+}
+.space110 {
+  float: left;
+  width: 100%;
+  height: 110px;
+}
+.space120 {
+  float: left;
+  width: 100%;
+  height: 120px;
+}
+.space130 {
+  float: left;
+  width: 100%;
+  height: 130px;
+}
+.space140 {
+  float: left;
+  width: 100%;
+  height: 140px;
+}
+.space150 {
+  float: left;
+  width: 100%;
+  height: 150px;
+}
+.min-height-780 {
+  min-height: 780px;
+}
+.height-780 {
+  height: 780px;
+}
+.min-height-865 {
+  min-height: 865px;
+}
+.min-height-350 {
+  min-height: 350px;
+}
+.min-height-500 {
+  min-height: 500px;
+}
+/** Scroll Bar **/
+/* Scroll Bar Start */
+::-webkit-scrollbar {
+  width: 8px;
+  height: auto;
+}
+::-webkit-scrollbar-track {
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  background: #f7faff;
+}
+::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  background: #2488ff;
+}
+::-webkit-scrollbar-thumb:window-inactive {
+  background: #2488ff;
+}
+/* Scroll Bar End */
+.display_block {
+  display: inline-block;
+}
+html .offset-top-0 {
+  margin-top: 0;
+}
+
+html .offset-top-5 {
+  margin-top: 5px;
+}
+
+html .offset-top-9 {
+  margin-top: 9px;
+}
+
+html .offset-top-10 {
+  margin-top: 10px;
+}
+
+html .offset-top-13 {
+  margin-top: 13px;
+}
+
+html .offset-top-22 {
+  margin-top: 22px;
+}
+
+html .offset-top-28 {
+  margin-top: 28px;
+}
+
+html .offset-top-30 {
+  margin-top: 30px;
+}
+
+html .offset-top-33 {
+  margin-top: 33px;
+}
+
+html .offset-top-40 {
+  margin-top: 40px;
+}
+
+html .offset-top-48 {
+  margin-top: 48px;
+}
+html .offset-top-55 {
+  margin-top: 55px;
+}
+html .offset-top-60 {
+  margin-top: 60px;
+}
+html .offset-top-68 {
+  margin-top: 68px;
+}
+
+html .offset-top-80 {
+  margin-top: 80px;
+}
+
+html .offset-top-86 {
+  margin-top: 86px;
+}
+html .offset-top-90 {
+  margin-top: 86px;
+}
+html .offset-top-106 {
+  margin-top: 106px;
+}
+
+html .offset-top-114 {
+  margin-top: 114px;
+}
+/** Offset bottom **/
+html .offset-bottom-0 {
+  margin-bottom: 0;
+}
+
+html .offset-bottom-5 {
+  margin-bottom: 5px;
+}
+
+html .offset-bottom-9 {
+  margin-bottom: 9px;
+}
+
+html .offset-bottom-10 {
+  margin-bottom: 10px;
+}
+
+html .offset-bottom-13 {
+  margin-bottom: 13px;
+}
+
+html .offset-bottom-22 {
+  margin-bottom: 22px;
+}
+
+html .offset-bottom-28 {
+  margin-bottom: 28px;
+}
+
+html .offset-bottom-30 {
+  margin-bottom: 30px;
+}
+
+html .offset-bottom-33 {
+  margin-bottom: 33px;
+}
+
+html .offset-bottom-40 {
+  margin-bottom: 40px;
+}
+
+html .offset-bottom-48 {
+  margin-bottom: 48px;
+}
+
+html .offset-bottom-60 {
+  margin-bottom: 60px;
+}
+html .offset-bottom-65 {
+  margin-bottom: 65px;
+}
+html.offset-bottom-68 {
+  margin-bottom: 68px;
+}
+
+html .offset-bottom-80 {
+  margin-bottom: 80px;
+}
+
+html .offset-bottom-86 {
+  margin-bottom: 86px;
+}
+
+html .offset-bottom-106 {
+  margin-bottom: 106px;
+}
+
+html .offset-bottom-114 {
+  margin-bottom: 114px;
+}
+.mar-zero {
+  margin: 0 auto;
+}
+.mar-bottom-zero {
+  margin-bottom: 0;
+}
+.mar-top-zero {
+  margin-top: 0;
+}

@@ -1,0 +1,1657 @@
+@media (min-width: 320px) and (max-width: 374px) {
+  section {
+    display: inline-block;
+  }
+  .navbar-toggle {
+    margin-top: 17px;
+    border-color: transparent !important;
+  }
+  .navbar-default .navbar-toggle:focus,
+  .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #019bad;
+  }
+  .main-header .navbar-nav > li > a {
+    font-size: 12px;
+    padding: 3px 15px;
+  }
+  .main-header > .navbar {
+    min-height: 70px;
+  }
+  .main-header .navbar-brand {
+    height: 70px;
+  }
+  .main-header .navbar-brand > img {
+    max-height: 100%;
+  }
+  .main_slider_parallex {
+    min-height: 500px;
+  }
+  .welcome_screen {
+    min-height: 200px;
+    width: 100%;
+    padding: 30px 15px;
+  }
+  .special_heading_lg {
+    font-size: 35px;
+    line-height: 32px;
+    margin: 0;
+  }
+  .welcome_screen h4 {
+    margin: 15px 0;
+  }
+  .line-heading {
+    margin-bottom: 25px;
+  }
+  .line-heading h1 {
+    font-size: 28px;
+  }
+  .line-heading h4 {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .line-heading:after {
+    bottom: 6px;
+  }
+  .about_content {
+    margin-bottom: 40px;
+  }
+  .post-slider-content {
+    padding: 50px 20px;
+  }
+  .testimonial-caption {
+    width: 100%;
+    padding: 16px 30px;
+  }
+  .testimonial-caption-text h4 {
+    line-height: 16px;
+    font-size: 13px;
+  }
+  .testimonial_author hr {
+    width: 130px;
+  }
+  .testimonial-slider .post_slider_arrow {
+    top: auto;
+    bottom: -10%;
+  }
+  .testimonial-section {
+    min-height: 550px;
+  }
+  .post-slider {
+    padding-top: 0;
+  }
+  .rooms-lg-box .rooms-lg-box-image {
+    margin-bottom: 22px;
+  }
+  .rooms-small-box .rooms-small-box-content h4 {
+    font-size: 15px;
+  }
+  .blog-card,
+  .pricing-card {
+    margin-bottom: 25px;
+  }
+  .pricing-card .price-card-rating i {
+    font-size: 20px;
+    margin-top: 14px;
+  }
+  .weather_layout {
+    padding: 0 0;
+  }
+  .directions_box .btn {
+    margin-bottom: 40px;
+  }
+  /*.weather-forecast .btn {*/
+  /*margin-bottom: 20px;*/
+  /*}*/
+  .address-information {
+    padding: 15px 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px !important;
+  }
+  .contact-form,
+  .socials_icons {
+    margin-bottom: 30px;
+  }
+  .address-info-title {
+    text-align: center;
+  }
+  .footer-widget {
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 100%;
+  }
+  .copyright {
+    height: auto;
+  }
+  /** Home 1 End **/
+  .images-slider-arrow {
+    top: 80%;
+  }
+  .images-slider,
+  .video-slider {
+    height: 550px;
+    min-height: 550px;
+  }
+  /** Home 2 End **/
+  .single-slider .carousel-inner .item {
+    height: 200px;
+  }
+  .single-slider .carousel-inner .item > img {
+    height: 100%;
+  }
+  #single_carousel .post_slider_arrow {
+    top: 45%;
+  }
+  .reviews-box .rating-content {
+    padding: 12px 15px;
+  }
+  /** Single Room End **/
+  .welcome_screen h1 {
+    margin: 10px 0;
+  }
+  .welcome_screen .btn {
+    margin-top: 10px;
+  }
+  .rooms-small-box {
+    margin-bottom: 30px !important;
+  }
+}
+@media (min-width: 375px) and (max-width: 413px) {
+  section {
+    display: inline-block;
+  }
+  .navbar-toggle {
+    margin-top: 17px;
+    border-color: transparent !important;
+  }
+  .navbar-default .navbar-toggle:focus,
+  .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #019bad;
+  }
+  .main-header .navbar-nav > li > a {
+    font-size: 12px;
+    padding: 3px 15px;
+  }
+  .main-header > .navbar {
+    min-height: 70px;
+  }
+  .main-header .navbar-brand {
+    height: 70px;
+  }
+  .main-header .navbar-brand > img {
+    max-height: 100%;
+  }
+  .main_slider_parallex {
+    min-height: 500px;
+  }
+  .welcome_screen {
+    min-height: 200px;
+    width: 100%;
+    padding: 30px 15px;
+  }
+  .special_heading_lg {
+    font-size: 35px;
+    line-height: 32px;
+    margin: 0;
+  }
+  .welcome_screen h4 {
+    margin: 15px 0;
+  }
+  .line-heading {
+    margin-bottom: 25px;
+  }
+  .line-heading h1 {
+    font-size: 28px;
+  }
+  .line-heading h4 {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .line-heading:after {
+    bottom: 6px;
+  }
+  .about_content {
+    margin-bottom: 40px;
+  }
+  .post-slider-content {
+    padding: 50px 20px;
+  }
+  .testimonial-caption {
+    width: 100%;
+    padding: 16px 30px;
+  }
+  .testimonial-caption-text h4 {
+    line-height: 16px;
+    font-size: 13px;
+  }
+  .testimonial_author hr {
+    width: 130px;
+    clear: both;
+    display: table;
+    margin: 10px auto;
+  }
+  .testimonial-slider .post_slider_arrow {
+    top: auto;
+    bottom: -10%;
+  }
+  .testimonial-section {
+    min-height: 550px;
+  }
+  .post-slider {
+    padding-top: 0;
+  }
+  .rooms-lg-box .rooms-lg-box-image {
+    margin-bottom: 22px;
+  }
+  .rooms-small-box .rooms-small-box-content h4 {
+    font-size: 15px;
+  }
+  .blog-card,
+  .pricing-card {
+    margin-bottom: 25px;
+  }
+  .pricing-card .price-card-rating i {
+    font-size: 20px;
+    margin-top: 14px;
+  }
+  .weather_layout {
+    padding: 0 0;
+  }
+  .directions_box .btn {
+    margin-bottom: 40px;
+  }
+  /*.weather-forecast .btn {*/
+  /*margin-bottom: 20px;*/
+  /*}*/
+  .address-information {
+    padding: 15px 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px !important;
+  }
+  .contact-form,
+  .socials_icons {
+    margin-bottom: 30px;
+  }
+  .address-info-title {
+    text-align: center;
+  }
+  .footer-widget {
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 100%;
+  }
+  .copyright {
+    height: auto;
+  }
+  .post-slider-text h3 {
+    font-size: 20px;
+  }
+  /** Home 1 End **/
+  .images-slider-arrow {
+    top: 85%;
+  }
+  .images-slider,
+  .video-slider {
+    height: 550px;
+    min-height: 550px;
+  }
+  /** Home 2 End **/
+  .single-slider .carousel-inner .item {
+    height: 250px;
+  }
+  .single-slider .carousel-inner .item > img {
+    height: 100%;
+  }
+  #single_carousel .post_slider_arrow {
+    top: 45%;
+  }
+  .reviews-box .rating-content {
+    padding: 12px 15px;
+  }
+  /** Single Room End **/
+  .welcome_screen h1 {
+    margin: 10px 0;
+  }
+  .welcome_screen .btn {
+    margin-top: 10px;
+  }
+  .rooms-small-box {
+    margin-bottom: 30px !important;
+  }
+  .post_slider_arrow {
+    left: 35%;
+  }
+}
+@media (min-width: 414px) and (max-width: 479px) {
+  section {
+    display: inline-block;
+  }
+  .navbar-toggle {
+    margin-top: 17px;
+    border-color: transparent !important;
+  }
+  .navbar-default .navbar-toggle:focus,
+  .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #019bad;
+  }
+  .main-header .navbar-nav > li > a {
+    font-size: 12px;
+    padding: 3px 15px;
+  }
+  .main-header > .navbar {
+    min-height: 70px;
+  }
+  .main-header .navbar-brand {
+    height: 70px;
+  }
+  .main-header .navbar-brand > img {
+    max-height: 100%;
+  }
+  .main_slider_parallex {
+    min-height: 500px;
+  }
+  .welcome_screen {
+    min-height: 200px;
+    width: 100%;
+    padding: 30px 15px;
+  }
+  .special_heading_lg {
+    font-size: 35px;
+    line-height: 32px;
+    margin: 0;
+  }
+  .welcome_screen h4 {
+    margin: 15px 0;
+  }
+  .line-heading {
+    margin-bottom: 25px;
+  }
+  .line-heading h1 {
+    font-size: 28px;
+  }
+  .line-heading h4 {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .line-heading:after {
+    bottom: 6px;
+  }
+  .about_content {
+    margin-bottom: 40px;
+  }
+  .post-slider-content {
+    padding: 50px 20px;
+  }
+  .testimonial-caption {
+    width: 100%;
+    padding: 16px 30px;
+  }
+  .testimonial-caption-text h4 {
+    line-height: 25px;
+    font-size: 15px;
+  }
+  .testimonial_author hr {
+    width: 130px;
+    clear: both;
+    display: table;
+    margin: 10px auto;
+  }
+  .testimonial-slider .post_slider_arrow {
+    top: auto;
+    bottom: -10%;
+  }
+  .testimonial-section {
+    min-height: 550px;
+  }
+  .post-slider {
+    padding-top: 0;
+  }
+  .rooms-lg-box .rooms-lg-box-image {
+    margin-bottom: 22px;
+  }
+  .rooms-small-box .rooms-small-box-content h4 {
+    font-size: 15px;
+  }
+  .blog-card,
+  .pricing-card {
+    margin-bottom: 25px;
+  }
+  .pricing-card .price-card-rating i {
+    font-size: 20px;
+    margin-top: 14px;
+  }
+  .weather_layout {
+    padding: 0 0;
+  }
+  .directions_box .btn {
+    margin-bottom: 40px;
+  }
+  /*.weather-forecast .btn {*/
+  /*margin-bottom: 20px;*/
+  /*}*/
+  .address-information {
+    padding: 15px 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px !important;
+  }
+  .contact-form,
+  .socials_icons {
+    margin-bottom: 30px;
+  }
+  .address-info-title {
+    text-align: center;
+  }
+  .footer-widget {
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 100%;
+  }
+  .copyright {
+    height: auto;
+  }
+  .post-slider-text h3 {
+    font-size: 20px;
+  }
+  /** Home 1 End **/
+  .images-slider-arrow {
+    top: 85%;
+  }
+  .images-slider,
+  .video-slider {
+    height: 550px;
+    min-height: 550px;
+  }
+  /** Home 2 End **/
+  .single-slider .carousel-inner .item {
+    height: 250px;
+  }
+  .single-slider .carousel-inner .item > img {
+    height: 100%;
+  }
+  #single_carousel .post_slider_arrow {
+    top: 45%;
+  }
+  .reviews-box .rating-content {
+    padding: 12px 15px;
+  }
+  /** Single Room End **/
+  .welcome_screen h1 {
+    margin: 10px 0;
+  }
+  .welcome_screen .btn {
+    margin-top: 10px;
+  }
+  .rooms-small-box {
+    margin-bottom: 30px !important;
+  }
+  .post_slider_arrow {
+    left: 35%;
+  }
+}
+@media (min-width: 480px) and (max-width: 567px) {
+  section {
+    display: inline-block;
+  }
+  .navbar-toggle {
+    margin-top: 17px;
+    border-color: transparent !important;
+  }
+  .navbar-default .navbar-toggle:focus,
+  .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #019bad;
+  }
+  /*.main-header .navbar-nav>li>a {*/
+  /*font-size: 12px;*/
+  /*padding: 3px 15px;*/
+  /*}*/
+  .main-header > .navbar {
+    min-height: 70px;
+  }
+  .main-header .navbar-brand {
+    height: 70px;
+  }
+  .main-header .navbar-brand > img {
+    max-height: 100%;
+  }
+  .main_slider_parallex {
+    min-height: 500px;
+  }
+  .welcome_screen {
+    min-height: 200px;
+    width: 100%;
+    padding: 30px 15px;
+  }
+  .special_heading_lg {
+    font-size: 35px;
+    line-height: 32px;
+    margin: 0;
+  }
+  .welcome_screen h4 {
+    margin: 15px 0;
+  }
+  .line-heading {
+    margin-bottom: 25px;
+  }
+  .line-heading h1 {
+    font-size: 28px;
+  }
+  .line-heading h4 {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .line-heading:after {
+    bottom: 6px;
+  }
+  .about_content {
+    margin-bottom: 40px;
+  }
+  .post-slider-content {
+    padding: 50px 20px;
+  }
+  .testimonial-caption {
+    width: 100%;
+    padding: 16px 30px;
+  }
+  .testimonial-caption-text h4 {
+    line-height: 25px;
+    font-size: 15px;
+  }
+  .testimonial_author hr {
+    width: 130px;
+    clear: both;
+    display: table;
+    margin: 10px auto;
+  }
+  .testimonial-slider .post_slider_arrow {
+    top: auto;
+    bottom: -10%;
+  }
+  .testimonial-section {
+    min-height: 620px;
+  }
+  .post-slider {
+    padding-top: 0;
+  }
+  .rooms-lg-box .rooms-lg-box-image {
+    margin-bottom: 22px;
+  }
+  .rooms-small-box .rooms-small-box-content h4 {
+    font-size: 15px;
+  }
+  .blog-card,
+  .pricing-card {
+    margin-bottom: 25px;
+  }
+  .pricing-card .price-card-rating i {
+    font-size: 20px;
+    margin-top: 14px;
+  }
+  .weather_layout {
+    padding: 0 0;
+  }
+  .directions_box .btn {
+    margin-bottom: 40px;
+  }
+  /*.weather-forecast .btn {*/
+  /*margin-bottom: 20px;*/
+  /*}*/
+  .address-information {
+    padding: 15px 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px !important;
+  }
+  .contact-form,
+  .socials_icons {
+    margin-bottom: 30px;
+  }
+  .address-info-title {
+    text-align: center;
+  }
+  .footer-widget {
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 100%;
+  }
+  .copyright {
+    height: auto;
+  }
+  .post-slider-text h3 {
+    font-size: 20px;
+  }
+  .slider-posts .post_slider_arrow {
+    left: 40%;
+  }
+  .pricing-card .price-card-content ul {
+    margin: 40px auto;
+  }
+  /** Home 1 End **/
+  .images-slider-arrow {
+    top: 85%;
+  }
+  .images-slider,
+  .video-slider {
+    height: 550px;
+    min-height: 550px;
+  }
+  /** Home 2 End **/
+  .single-slider .carousel-inner .item {
+    height: 300px;
+  }
+  .single-slider .carousel-inner .item > img {
+    height: 100%;
+  }
+  #single_carousel .post_slider_arrow {
+    top: 45%;
+  }
+  .reviews-box .rating-content {
+    padding: 12px 15px;
+  }
+  /** Single Room End **/
+  .sidebar {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .welcome_screen h1 {
+    margin: 10px 0;
+  }
+  .welcome_screen .btn {
+    margin-top: 10px;
+  }
+  .rooms-small-box {
+    margin-bottom: 30px !important;
+  }
+}
+@media (min-width: 568px) and (max-width: 684px) {
+  section {
+    display: inline-block;
+  }
+  .navbar-toggle {
+    margin-top: 17px;
+    border-color: transparent !important;
+  }
+  .navbar-default .navbar-toggle:focus,
+  .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #019bad;
+  }
+  /*.main-header .navbar-nav>li>a {*/
+  /*font-size: 12px;*/
+  /*padding: 3px 15px;*/
+  /*}*/
+  .main-header > .navbar {
+    min-height: 70px;
+  }
+  .main-header .navbar-brand {
+    height: 70px;
+  }
+  .main-header .navbar-brand > img {
+    max-height: 100%;
+  }
+  .main_slider_parallex {
+    min-height: 500px;
+  }
+  .welcome_screen {
+    min-height: 200px;
+    width: 100%;
+    padding: 30px 15px;
+  }
+  .special_heading_lg {
+    font-size: 35px;
+    line-height: 32px;
+    margin: 0;
+  }
+  .welcome_screen h4 {
+    margin: 15px 0;
+  }
+  .line-heading {
+    margin-bottom: 25px;
+  }
+  .line-heading h1 {
+    font-size: 28px;
+  }
+  .line-heading h4 {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .line-heading:after {
+    bottom: 6px;
+  }
+  .about_content {
+    margin-bottom: 40px;
+  }
+  .post-slider-content {
+    padding: 50px 20px;
+  }
+  .testimonial-caption {
+    width: 100%;
+    padding: 16px 30px;
+  }
+  .testimonial-caption-text h4 {
+    line-height: 25px;
+    font-size: 15px;
+  }
+  .testimonial_author hr {
+    width: 130px;
+    clear: both;
+    display: table;
+    margin: 10px auto;
+  }
+  .testimonial-slider .post_slider_arrow {
+    top: auto;
+    bottom: -10%;
+  }
+  .testimonial-section {
+    min-height: 550px;
+  }
+  .post-slider {
+    padding-top: 0;
+  }
+  .rooms-lg-box .rooms-lg-box-image {
+    margin-bottom: 22px;
+  }
+  .rooms-small-box .rooms-small-box-content h4 {
+    font-size: 15px;
+  }
+  .blog-card,
+  .pricing-card {
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 25px;
+  }
+  .pricing-card .price-card-rating i {
+    font-size: 20px;
+    margin-top: 14px;
+  }
+  .weather_layout {
+    padding: 0 0;
+  }
+  .directions_box .btn {
+    margin-bottom: 40px;
+  }
+  /*.weather-forecast .btn {*/
+  /*margin-bottom: 20px;*/
+  /*}*/
+  .address-information {
+    padding: 15px 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px !important;
+  }
+  .contact-form,
+  .socials_icons {
+    margin-bottom: 30px;
+  }
+  .address-info-title {
+    text-align: center;
+  }
+  .footer-widget {
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 100%;
+  }
+  .copyright {
+    height: auto;
+  }
+  .post-slider-text h3 {
+    font-size: 20px;
+  }
+  .slider-posts .post_slider_arrow {
+    left: 40%;
+  }
+  .pricing-card .price-card-content ul {
+    margin: 40px auto;
+  }
+  .welcome_screen .col-sm-6 {
+    float: left;
+    width: 50%;
+  }
+  .slider-posts-box-image {
+    min-height: 300px;
+  }
+  .rooms-small-box .rooms-small-box-image img {
+    width: 100%;
+  }
+  .counter-section .col-sm-3 {
+    float: left;
+    width: 50%;
+  }
+  .reservation-form .col-sm-4 {
+    width: 50%;
+    float: left;
+  }
+  /** Home 1 End **/
+  .images-slider-arrow {
+    top: 85%;
+  }
+  .images-slider,
+  .video-slider {
+    height: 600px;
+    min-height: 550px;
+  }
+  /** Home 2 End **/
+  .single-slider .carousel-inner .item {
+    height: 300px;
+  }
+  .single-slider .carousel-inner .item > img {
+    height: 100%;
+  }
+  #single_carousel .post_slider_arrow {
+    top: 45%;
+  }
+  .reviews-box .rating-content {
+    padding: 12px 15px;
+  }
+  /** Single Room End **/
+  .sidebar {
+    width: 400px;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 685px) and (max-width: 767px) {
+  section {
+    display: inline-block;
+  }
+  .navbar-toggle {
+    margin-top: 17px;
+    border-color: transparent !important;
+  }
+  .navbar-default .navbar-toggle:focus,
+  .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #019bad;
+  }
+  /*.main-header .navbar-nav>li>a {*/
+  /*font-size: 12px;*/
+  /*padding: 3px 15px;*/
+  /*}*/
+  .main-header > .navbar {
+    min-height: 70px;
+  }
+  .main-header .navbar-brand {
+    height: 70px;
+  }
+  .main-header .navbar-brand > img {
+    max-height: 100%;
+  }
+  .main_slider_parallex {
+    min-height: 650px;
+  }
+  .welcome_screen {
+    min-height: 200px;
+    width: 80%;
+    padding: 60px 30px;
+  }
+  .special_heading_lg {
+    font-size: 35px;
+    line-height: 32px;
+    margin: 0;
+  }
+  .welcome_screen h4 {
+    margin: 15px 0;
+  }
+  .line-heading {
+    margin-bottom: 25px;
+  }
+  .line-heading h1 {
+    font-size: 28px;
+  }
+  .line-heading h4 {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .line-heading:after {
+    bottom: 6px;
+  }
+  .about_content {
+    margin-bottom: 40px;
+  }
+  .post-slider-content {
+    padding: 50px 20px;
+  }
+  .testimonial-caption {
+    width: 100%;
+    padding: 16px 30px;
+  }
+  .testimonial-caption-text h4 {
+    line-height: 25px;
+    font-size: 15px;
+  }
+  .testimonial_author hr {
+    width: 130px;
+    clear: both;
+    display: table;
+    margin: 10px auto;
+  }
+  .testimonial-slider .post_slider_arrow {
+    top: auto;
+    bottom: -10%;
+  }
+  .testimonial-section {
+    min-height: 550px;
+  }
+  .post-slider {
+    padding-top: 0;
+  }
+  .rooms-lg-box .rooms-lg-box-image {
+    margin-bottom: 22px;
+  }
+  .rooms-small-box .rooms-small-box-content h4 {
+    font-size: 15px;
+  }
+  .blog-card,
+  .pricing-card {
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 25px;
+  }
+  .pricing-card .price-card-rating i {
+    font-size: 20px;
+    margin-top: 14px;
+  }
+  .weather_layout {
+    padding: 0 0;
+  }
+  .directions_box .btn {
+    margin-bottom: 40px;
+  }
+  /*.weather-forecast .btn {*/
+  /*margin-bottom: 20px;*/
+  /*}*/
+  .address-information {
+    padding: 15px 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px !important;
+  }
+  .contact-form,
+  .socials_icons {
+    margin-bottom: 30px;
+  }
+  .address-info-title {
+    text-align: center;
+  }
+  .footer-widget {
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 100%;
+  }
+  .copyright {
+    height: auto;
+  }
+  .post-slider-text h3 {
+    font-size: 20px;
+  }
+  .slider-posts .post_slider_arrow {
+    left: 40%;
+  }
+  .pricing-card .price-card-content ul {
+    margin: 40px auto;
+  }
+  .welcome_screen .col-sm-6 {
+    float: left;
+    width: 50%;
+  }
+  .slider-posts-box-image {
+    min-height: 300px;
+  }
+  .rooms-small-box .rooms-small-box-image img {
+    width: 100%;
+  }
+  .counter-section .col-sm-3 {
+    float: left;
+    width: 50%;
+  }
+  .reservation-form .col-sm-4 {
+    width: 50%;
+    float: left;
+  }
+  .widget-gallery ul li {
+    margin-bottom: 30px;
+  }
+  /** Home 1 End **/
+  .images-slider-arrow {
+    top: 85%;
+  }
+  .images-slider,
+  .video-slider {
+    height: 600px;
+    min-height: 550px;
+  }
+  /** Home 2 End **/
+  .single-slider .carousel-inner .item {
+    height: 350px;
+  }
+  .single-slider .carousel-inner .item > img {
+    height: 100%;
+  }
+  #single_carousel .post_slider_arrow {
+    top: 45%;
+  }
+  .reviews-box .rating-content {
+    padding: 12px 15px;
+  }
+  /** Single Room End **/
+  .sidebar {
+    width: 400px;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar-toggle {
+    margin-top: 17px;
+    border-color: transparent !important;
+  }
+  .navbar-default .navbar-toggle:focus,
+  .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #019bad;
+  }
+  .main-header .navbar-nav > li > a {
+    font-size: 11px;
+    padding: 5px 9px;
+  }
+  .about_image .bg-image {
+    min-height: 250px;
+  }
+  /*.main-header .navbar-nav>li>a {*/
+  /*font-size: 12px;*/
+  /*padding: 3px 15px;*/
+  /*}*/
+  .main-header > .navbar {
+    min-height: 70px;
+  }
+  .main-header .navbar-brand {
+    height: 90px;
+    padding: 25px;
+  }
+  .main-header .navbar-brand > img {
+    max-height: 100%;
+  }
+  .main_slider_parallex {
+    min-height: 650px;
+  }
+  .welcome_screen {
+    min-height: 200px;
+    width: 80%;
+    padding: 60px 30px;
+  }
+  /*.special_heading_lg {*/
+  /*font-size: 35px;*/
+  /*line-height: 32px;*/
+  /*margin: 0;*/
+  /*}*/
+  /*.welcome_screen h4 {*/
+  /*margin: 15px 0;*/
+  /*}*/
+  /*.line-heading {*/
+  /*margin-bottom: 25px;*/
+  /*}*/
+  .line-heading h1 {
+    font-size: 28px;
+  }
+  .line-heading h4 {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .line-heading:after {
+    bottom: 6px;
+  }
+  .about_content {
+    margin-bottom: 40px;
+  }
+  .post-slider-content {
+    padding: 50px 20px;
+  }
+  .testimonial-caption {
+    width: 100%;
+    padding: 16px 30px;
+  }
+  .testimonial-caption-text h4 {
+    line-height: 25px;
+    font-size: 15px;
+  }
+  .testimonial_author hr {
+    width: 130px;
+    clear: both;
+    display: table;
+    margin: 10px auto;
+  }
+  .testimonial-slider .post_slider_arrow {
+    top: auto;
+    bottom: -10%;
+  }
+  .testimonial-section {
+    min-height: 550px;
+  }
+  .post-slider {
+    padding-top: 0;
+  }
+  .rooms-lg-box .rooms-lg-box-image {
+    margin-bottom: 22px;
+  }
+  .rooms-small-box .rooms-small-box-content h4 {
+    font-size: 15px;
+  }
+  .pricing-card .price-card-rating i {
+    font-size: 15px;
+    margin-top: 2px;
+  }
+  .weather_layout {
+    padding: 0 0;
+  }
+  .directions_box .btn {
+    margin-bottom: 40px;
+  }
+  .address-information {
+    padding: 15px 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px !important;
+  }
+  .contact-form,
+  .socials_icons {
+    margin-bottom: 30px;
+  }
+  .address-info-title {
+    text-align: center;
+  }
+  .footer-widget {
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 100%;
+  }
+  .copyright {
+    height: auto;
+  }
+  .post-slider-text h3 {
+    font-size: 20px;
+  }
+  .slider-posts .post_slider_arrow {
+    left: 43%;
+  }
+  .pricing-card .price-card-content ul {
+    margin: 40px auto;
+  }
+  .slider-posts-box-image {
+    min-height: 300px;
+  }
+  .widget-gallery ul li {
+    margin-bottom: 30px;
+  }
+  .rooms-small-box .rooms-small-box-image {
+    height: 220px;
+  }
+  .counter_box h3 {
+    font-size: 16px;
+  }
+  .blog-card .blog-card-image {
+    height: 150px;
+  }
+  .pricing-card .price-card-header,
+  .pricing-card .price-card-header h1,
+  .pricing-card .price-card-rating {
+    min-height: 80px;
+    height: 80px;
+    font-size: 20px;
+    padding: 0 6px;
+  }
+  .weather-forecast h2 {
+    margin-top: 20px;
+  }
+  .directions_box input {
+    margin-top: 30px;
+  }
+  .footer-menu ul li {
+    width: 100%;
+    margin-bottom: 10px !important;
+  }
+  .socials_icons a {
+    margin-right: 3px;
+  }
+  /** Home 1 End **/
+  .images-slider-arrow {
+    left: 2%;
+    right: 0%;
+  }
+  .images-slider,
+  .video-slider {
+    height: 600px;
+    min-height: 550px;
+  }
+  /** Home 2 End **/
+  .rooms-lg-box .rooms-lg-box-content h4 span {
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+  }
+  .single-slider .carousel-inner .item {
+    height: 500px;
+  }
+  .single-slider .carousel-inner .item > img {
+    height: 100%;
+  }
+  #single_carousel .post_slider_arrow {
+    top: 45%;
+  }
+  .reviews-box .rating-content {
+    padding: 0 15px;
+  }
+  /** Single Room End **/
+  .reviews-box .btn {
+    min-width: 100px;
+  }
+  .sidebar-posts {
+    text-align: center;
+  }
+  .sidebar-box-title h4 {
+    font-size: 16px;
+  }
+  .sidebar-featured-room .rooms-small-box-image,
+  .sidebar-featured-room .rooms-small-box-image img {
+    height: auto !important;
+    width: 100%;
+  }
+  .sidebar-featured-room-con h5 {
+    font-size: 9px;
+  }
+  .reviews-box-2 .review-box-img {
+    width: 100px;
+    max-width: inherit;
+  }
+  .services_box {
+    padding: 0;
+  }
+}
+@media (min-width: 992px) and (max-width: 1023px) {
+  .navbar-toggle {
+    margin-top: 17px;
+    border-color: transparent !important;
+  }
+  .navbar-default .navbar-toggle:focus,
+  .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #019bad;
+  }
+  .main-header .navbar-nav > li > a {
+    padding: 6px 18px;
+    font-size: 12px;
+  }
+  .about_image .bg-image {
+    min-height: 250px;
+  }
+  /*.main-header .navbar-nav>li>a {*/
+  /*font-size: 12px;*/
+  /*padding: 3px 15px;*/
+  /*}*/
+  .main-header > .navbar {
+    min-height: 70px;
+  }
+  .main-header .navbar-brand {
+    height: 90px;
+    padding: 25px;
+  }
+  .main-header .navbar-brand > img {
+    max-height: 100%;
+  }
+  .main_slider_parallex {
+    min-height: 650px;
+  }
+  /*.welcome_screen {*/
+  /*min-height: 200px;*/
+  /*width: 80%;*/
+  /*padding: 60px 30px;*/
+  /*}*/
+  /*.special_heading_lg {*/
+  /*font-size: 35px;*/
+  /*line-height: 32px;*/
+  /*margin: 0;*/
+  /*}*/
+  /*.welcome_screen h4 {*/
+  /*margin: 15px 0;*/
+  /*}*/
+  /*.line-heading {*/
+  /*margin-bottom: 25px;*/
+  /*}*/
+  /*.line-heading h1 {*/
+  /*font-size: 28px;*/
+  /*}*/
+  /*.line-heading h4 {*/
+  /*font-size: 13px;*/
+  /*line-height: 23px;*/
+  /*}*/
+  /*.line-heading:after {*/
+  /*bottom: 6px;*/
+  /*}*/
+  .about_content {
+    margin-bottom: 40px;
+  }
+  .post-slider-content {
+    padding: 50px 20px;
+  }
+  .testimonial-caption {
+    width: 100%;
+    padding: 16px 30px;
+  }
+  /*.testimonial-caption-text h4 {*/
+  /*line-height: 25px;*/
+  /*font-size: 15px;*/
+  /*}*/
+  .testimonial_author hr {
+    width: 130px;
+    clear: both;
+    display: table;
+    margin: 10px auto;
+  }
+  .testimonial-slider .post_slider_arrow {
+    top: auto;
+    bottom: -10%;
+  }
+  .testimonial-section {
+    min-height: 550px;
+  }
+  .post-slider {
+    padding-top: 0;
+  }
+  .rooms-lg-box .rooms-lg-box-image {
+    margin-bottom: 22px;
+  }
+  .rooms-small-box .rooms-small-box-content h4 {
+    font-size: 15px;
+  }
+  .pricing-card .price-card-rating i {
+    font-size: 15px;
+    margin-top: 2px;
+  }
+  .weather_layout {
+    padding: 0 0;
+  }
+  .directions_box .btn {
+    margin-bottom: 40px;
+  }
+  /*.weather-forecast .btn {*/
+  /*margin-bottom: 20px;*/
+  /*}*/
+  .address-information {
+    padding: 15px 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px !important;
+  }
+  .contact-form,
+  .socials_icons {
+    margin-bottom: 30px;
+  }
+  .address-info-title {
+    text-align: center;
+  }
+  .footer-widget {
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 100%;
+  }
+  .copyright {
+    height: auto;
+  }
+  .post-slider-text h3 {
+    font-size: 20px;
+  }
+  .slider-posts .post_slider_arrow {
+    left: 40%;
+  }
+  .pricing-card .price-card-content ul {
+    margin: 40px auto;
+  }
+  .slider-posts-box-image {
+    min-height: 300px;
+  }
+  .widget-gallery ul li {
+    margin-bottom: 30px;
+  }
+  /*.rooms-small-box .rooms-small-box-image {*/
+  /*height: 220px;*/
+  /*}*/
+  .counter_box h3 {
+    font-size: 16px;
+  }
+  .blog-card .blog-card-image {
+    height: 200px;
+  }
+  .pricing-card .price-card-header,
+  .pricing-card .price-card-header h1,
+  .pricing-card .price-card-rating {
+    min-height: 80px;
+    height: 80px;
+    font-size: 20px;
+    padding: 0 6px;
+  }
+  .weather-forecast h2 {
+    margin-top: 20px;
+  }
+  .directions_box input {
+    margin-top: 30px;
+  }
+  .footer-menu ul li {
+    margin-bottom: 10px;
+  }
+  .socials_icons a {
+    margin-right: 3px;
+  }
+  /** Home 2 End **/
+  .rooms-lg-box .rooms-lg-box-content h4 span {
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+  }
+  .single-slider .carousel-inner .item {
+    height: 500px;
+  }
+  .single-slider .carousel-inner .item > img {
+    height: 100%;
+  }
+  #single_carousel .post_slider_arrow {
+    top: 45%;
+  }
+  .reviews-box .rating-content {
+    padding: 0 15px;
+  }
+  /** Single Room End **/
+  .reviews-box-2 .btn {
+    min-width: 106px;
+  }
+  .services_box {
+    padding: 0 10px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1100px) {
+  .post-slider-text {
+    padding-left: 0;
+  }
+  .post-slider-content {
+    padding: 60px 30px;
+  }
+  .testimonial-caption {
+    width: 800px;
+  }
+  .main-header .navbar-nav > li > a {
+    font-size: 12px;
+    padding: 6px 18px;
+  }
+  /** Home 2 End **/
+  .rooms-lg-box .rooms-lg-box-content h4 span {
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+  }
+  .single-slider .carousel-inner .item {
+    height: 500px;
+  }
+  .single-slider .carousel-inner .item > img {
+    height: 100%;
+  }
+  #single_carousel .post_slider_arrow {
+    top: 45%;
+  }
+  .reviews-box .rating-content {
+    padding: 0 15px;
+  }
+  /** Single Room End **/
+  /** Single Room End **/
+  .reviews-box-2 .btn {
+    min-width: 106px;
+  }
+  .main-header .navbar-brand {
+    height: 90px;
+    padding: 20px 15px;
+  }
+  .post-slider .owl-item.main_slide_hov {
+    left: 25px;
+  }
+}
+@media (min-width: 1101px) and (max-width: 1200px) {
+  .testimonial-caption {
+    width: 800px;
+  }
+  .main-header .navbar-nav > li > a {
+    font-size: 12px;
+    padding: 6px 18px;
+  }
+  /** Home 2 End **/
+  .rooms-lg-box .rooms-lg-box-content h4 span {
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+  }
+  .single-slider .carousel-inner .item {
+    height: 500px;
+  }
+  .single-slider .carousel-inner .item > img {
+    height: 100%;
+  }
+  #single_carousel .post_slider_arrow {
+    top: 45%;
+  }
+  .reviews-box .rating-content {
+    padding: 0 15px;
+  }
+  /** Single Room End **/
+  .reviews-box-2 .btn {
+    min-width: 106px;
+  }
+  .main-header .navbar-brand {
+    height: 90px;
+    padding: 20px 15px;
+  }
+}
+@media (max-width: 480px) {
+  .contact-form .btn {
+    width: 100%;
+  }
+  .about_content .btn {
+    width: 100%;
+  }
+}
+@media (max-width: 567px) {
+  .rooms-lg-box .rooms-lg-box-content h4 span {
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+  }
+}
+@media (max-width: 767px) {
+  .reviews-box .rating-content h4 i {
+    margin: 0 15px;
+  }
+  .content-description blockquote {
+    font-size: 15px;
+    line-height: 25px;
+    padding: 20px 25px;
+  }
+  .sidebar-featured-room .rooms-small-box-image,
+  .sidebar-featured-room .rooms-small-box-image img {
+    height: auto;
+  }
+  .header_style2 .navbar-brand {
+    display: block;
+  }
+  .header_style2 .navbar-nav {
+    display: inline-block;
+  }
+  .main_slider_parallex {
+    margin-top: 70px !important;
+  }
+  .main-header .navbar-nav {
+    margin: 23px 10px;
+  }
+  .main-header .navbar-nav > li {
+    display: table;
+  }
+  .services_box {
+    margin-bottom: 60px !important;
+  }
+  .rooms-small-box {
+    margin-bottom: 30px !important;
+  }
+  .services-section {
+    padding-bottom: 0;
+  }
+  .rooms-section {
+    padding-bottom: 30px;
+  }
+  .line-heading {
+    margin-bottom: 50px;
+  }
+  .testimonial-slider .post_slider_arrow a {
+    display: none;
+  }
+}
+@media (max-width: 1024px) {
+  .content-description blockquote br {
+    display: none;
+  }
+  .welcome_screen h4 br {
+    display: none;
+  }
+  .content-description blockquote {
+    padding: 50px 35px;
+  }
+}
+@media (min-width: 1600px) {
+  .about_image:before,
+  .about_image:after,
+  .cross-multiply:before,
+  .cross-multiply:after {
+    width: 2px;
+  }
+  .cross-multiply span {
+    border-width: 2px;
+  }
+}
+
+@media (max-width: 768px) {
+  .welcome_screen img {
+    transform: translate(-50%, -30px);
+  }
+}
